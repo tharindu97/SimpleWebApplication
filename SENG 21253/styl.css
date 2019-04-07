@@ -1,0 +1,170 @@
+*{
+	padding: 12px;
+	margin: 0;
+
+}
+
+div.heder h1 span{
+	font-family: Curlz MT;
+	color: #0033CC;
+	font-size: 65px;
+
+}
+
+div.heder h1{
+	font-family:Comic Sans MS; 
+	color:#CC0033;
+	font-size: 65px;
+	text-align: right;
+	
+}
+div ul {
+	position: relative; 
+	left: 525px;
+	list-style-type: none;
+}
+div li {
+    float: left;
+    padding: 10px;
+    
+}
+div a:link, div a:visited{
+	text-decoration: none;
+	background-color: #3399ff;
+	padding: 4px 50px;
+	color: white;
+	font-size: 20px;
+}
+div li a{
+	display: block;
+}
+div a:hover{
+	background-color:  #CC0033; 
+}
+
+div.heder img{
+	float: left;
+}
+
+div.image{
+	background-image: url("IMG7.jpg");
+	margin-top: 20px;
+}
+div.image p{
+	background-color:#f5f5f0;
+    width: 93%;
+    padding: 25px;
+    margin: 25px;
+    opacity: 0.6;
+}
+div.body table{
+	padding-right: 100px;
+	padding-left: 100px;
+}
+div.body tr td{
+	background-color: #E0E0E0;
+	font-size: 20px; 
+}
+div.body tr th{
+	background-color: #003399;
+	font-size: 25px;
+	color: white;
+
+}
+
+div.footer h4{
+	text-align: center;
+	font-size: 15px;
+	font-family: Comic Sans MS;
+	background-color: #3399ff;
+	color: white;
+}
+
+div.footer h4:hover{
+	background-color:  #CC0033; 
+}
+
+div.gallery img{
+	 width:326px; 
+	 height:195px;
+	 border: 1px solid #ccc; 
+}
+
+div.gallery img:hover{
+	 width: 326px; 
+	 height:195px;
+	 border: 5px solid #777; 
+}
+
+div.place div.header img{
+	width: 256px;
+	height: 150px;
+	opacity: 0.4;
+}
+
+div.place div.header img:hover{
+	width: 256px;
+	height: 150px;
+	opacity: 1;
+
+}
+div.place h1 span{
+	font-family: Curlz MT;
+	color: #0033CC;
+	font-size: 40px;
+
+}
+
+div.place1 h1{
+	font-family:Comic Sans MS; 
+	color:#CC0033;
+	font-size: 40px;
+	
+}
+div.place1 img{
+	width: 250px;
+	height: 150px;
+}
+
+div.place1 img{
+	float: left;
+}
+div.place1 p{
+	font-size: 25px;
+}
+div.place2 h1{
+	font-family:Comic Sans MS; 
+	color:#CC0033;
+	font-size: 40px;
+	
+}
+div.place2 img{
+	width: 250px;
+	height: 150px;
+}
+
+div.place2 img{
+	float: left;
+}
+div.place2 p{
+	font-size: 25px;
+}
+
+div.place3 h1{
+	font-family:Comic Sans MS; 
+	color:#CC0033;
+	font-size: 40px;
+	
+}
+div.place3 img{
+	width: 250px;
+	height: 150px;
+}
+
+div.place3 img{
+	float: left;
+}
+div.place3 p{
+	font-size: 25px;
+}
+
