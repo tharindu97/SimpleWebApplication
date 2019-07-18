@@ -1,0 +1,162 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color:  #900C3F;
+}
+
+.header-body img{
+	width: 100vw;
+	height: 400px;
+	margin: 10px 10px 10px 10px;
+}
+.header-body h2{
+	position: absolute;
+    top: 340px;
+    right: 15px;
+    font-size: 40px;
+    font-family:  Chiller;
+    color: #daa520;
+     
+}
+
+header .header-footer ul{
+	list-style-type: none;
+	padding: 10px;
+	margin-left: 32%;
+}
+
+header .header-footer li{
+	margin: 50px;
+}
+
+header .header-footer ul li{
+	display: inline;
+	text-decoration: none;
+}
+
+header .header-footer a{
+	color: #FFF;
+	font-size: 30px;
+}
+.container{
+	background-image: url("2.jpg");
+	width: 100vw;
+	height: 1160px;
+	opacity: 0.8;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 10px 10px 10px 10px;
+}
+
+.container-header p{
+	
+	padding: 45px 45px 45px 45px;
+	font-size: 50px;
+	font-family:  Chiller;
+	color: #daa520;
+}
+table{
+	margin-left: 10%;
+}
+thead tr{
+	padding: 20px;
+}
+tbody tr{
+	padding: 20px;
+}
+thead tr th p{
+	text-align: center;
+	font-family:  Chiller;
+	color: #ffe0b3;
+	font-size: 40px;
+}
+
+tbody tr th img{
+	border:1px solid;
+	width: 400px;
+	height: 400px;
+	border-color: gold;
+	margin: 0px 130px;
+}
+
+tbody tr th p{
+	width: 400px;
+	height: 400px;
+	font-family:  Chiller;
+	color: #ffe0b3;
+	font-size: 30px;
+	margin: 0px 130px;
+}
+
+.container1{
+	background-image: url("5.jpg");
+	width: 100vw;
+	height: 1160px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 10px 10px 10px 10px;
+}
+
+.container2{
+	background-image: url("8.jpg");
+	width: 100vw;
+	height: 1160px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 10px 10px 10px 10px;
+}
+.body{
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 8%;
+	opacity: 0.5;
+	border:1px solid black;
+}
+
+.body p{
+	
+	padding: 50px 50px 50px 50px;
+	font-size: 35px;
+	font-weight: bold;
+	
+}
+.container1 h1{
+	margin-left: 2%;
+	font-family:  Chiller;
+	color: #ffa366;
+	font-size: 50px;
+}
+
+.body1{
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 8%;
+	opacity: 0.7;
+	border:1px solid black;
+}
+
+.body1 form{
+	padding: 50px;
+}
+
+.body1 legend{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.container2 p{
+	margin-top: 5%;
+	margin-left: 2%;
+	margin-right: 2%;
+	font-family:  Chiller;
+	color: black;
+	font-size: 50px;
+}
+.group{
+	padding-left: 25px;
+}
