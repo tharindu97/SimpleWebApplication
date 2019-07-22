@@ -1,0 +1,14 @@
+.container h1{
+	color: red;
+}
+
+.body {
+	width: 100%;
+	background-color: red;
+}
+
+.box{
+	width: 25%;
+	background-color: white;
+	height: 250px;
+}
